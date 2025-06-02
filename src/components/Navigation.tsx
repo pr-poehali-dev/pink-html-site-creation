@@ -16,16 +16,10 @@ const Navigation = () => {
               Главная
             </a>
             <a
-              href="/attractions"
+              href="#"
               className="text-green-700 hover:text-green-900 transition-colors duration-200 font-medium"
             >
               Достопримечательности
-            </a>
-            <a
-              href="/history"
-              className="text-green-700 hover:text-green-900 transition-colors duration-200 font-medium"
-            >
-              История
             </a>
             <a
               href="#"
